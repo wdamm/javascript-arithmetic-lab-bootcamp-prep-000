@@ -25,7 +25,6 @@ function dec(n) {
 function makeInt(n,o) {
 
   return(parseInt(n))
-=======
   return(parseInt(n),parseInt(n*0))
 }
 
